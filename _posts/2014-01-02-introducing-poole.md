@@ -8,5 +8,4 @@ comments: true
 </div>
 
 Lorum Ipsum
-
-<iframe src="https://docs.google.com/file/d/1hA7Vvkf_YwiQqkT-_aDagx-RkKIm7Kb1Ag/preview" width="640" height="480"></iframe>
+![placeholder](https://drive.google.com/uc?export=view&id=1FNWiiHsdkrm6Kw5FDH2B7TwPSn4hXIXlLA "Large example image")
