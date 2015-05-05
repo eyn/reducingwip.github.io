@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               James.fm
+tagline:             Cycling across North America
+url:                 http://james.fm
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,16 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              James Moore
+  url:               https://twitter.com/reducingwip
+  email:             james.moore@cantab.net
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/reducingwip/reducingwip.github.io
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
