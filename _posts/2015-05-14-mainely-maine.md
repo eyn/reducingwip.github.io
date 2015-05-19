@@ -3,7 +3,6 @@ layout: post
 title: Maine-ly Maine
 ---
 The ride started in the pretty town of Bar Harbor nestled on the edge of Acadia National Park on an island off the Maine coast. It was gone 11 before I got going having had to return the hire car to the airport and a few last minute adjustments to the bike. A quick stop at the supermarket to pick up some lunch (Peanut Butter and Jello sandwiches, trail mix and bananas) and I set out. No sooner than I had left Bar Harbor something felt wrong with the bike. It was very "wobbly" - had I got the headset on properly? Or had I screwed something else up putting the bike back together in my jet lagged state? The stem didn't rattle when I bounced the front wheel and a quick glance at everything else looked OK. A guy who appeared from nowhere informed me the wobble was normal for steel frames and I just had too much weight on it. It hadn't felt like this in the UK and I wasn't carrying  *that* much more stuff.  Drawing a blank I thought I'd push on, try and balance the weight across the panniers tomorrow and cycle in the saddle which was fine as there were no major climbs that day. 
-![Arriving in Acadia](
 {% include image.html img="/public/img/mainely-maine/acadia.jpg" title="Arriving in Acadia" caption="Arriving in Acadia" %}
 {% include image.html img="/public/img/mainely-maine/ThompsonIsland.jpg" title="Thompson Island" caption="Thompson Island" %}
 
