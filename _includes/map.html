@@ -9,7 +9,7 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 {% for gpxfile in include.gpx %}
 {
-    var gpx = 'public/gpx/{{ gpxfile }}.gpx';
+    var gpx = '/public/gpx/{{ gpxfile }}.gpx';
     new L.GPX(gpx, {async: true}).on('loaded', function(e) {2
                           map.fitBounds(e.target.getBounds());
       ).addTo(map);
