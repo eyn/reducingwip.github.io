@@ -5,10 +5,15 @@
 var map = L.map('map').setView([51.505, -0.09], 13);
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
-var url = "/public/gpx/20150509.gpx";
+var gpxfiles = "{{ include.gpx }}".split (',');
+
+for (var i = 0; i < gpxfiles.length; i++)
+{
+
+var url = "/public/gpx/"+gpxfiles[i]+".gpx";
 new L.GPX(url, {async: true}).on('loaded', function(e) {
                           map.fitBounds(e.target.getBounds());
       }).addTo(map);
 
-
+}
 </script>
