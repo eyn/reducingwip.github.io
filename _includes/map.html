@@ -14,7 +14,7 @@ var url = "/public/gpx/"+gpxfiles[i]+".gpx";
 new L.GPX(url, {async: true,
 marker_options: {
     startIconUrl: '/public/img/pin-icon-start.png',
-    endIconUrl: '/public/img/pin-icon-end.png',
+    endIconUrl: false,
     shadowUrl: '/public/img/pin-shadow.png'
   } }).on('loaded', function(e) {
                           map.fitBounds(e.target.getBounds());
