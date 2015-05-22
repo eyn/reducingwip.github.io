@@ -1,7 +1,7 @@
 <div class="map" id="map"></div>
 
 <script lang="text/javascript">
-
+$(function () {
 var map = L.map('map');
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
@@ -15,5 +15,7 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       ).addTo(map);
 }
 {% endfor %}
+
+});
 
 </script>
