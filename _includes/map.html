@@ -6,6 +6,8 @@ var map = L.map('map').setView([51.505, -0.09], 13);
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
 var gpxfiles = "{{ include.gpx }}".split (',');
+var numtoload = gpxfiles.length;
+var bounds = null;
 
 for (var i = 0; i < gpxfiles.length; i++)
 {
@@ -17,8 +19,27 @@ marker_options: {
     endIconUrl: false,
     shadowUrl: '/public/img/pin-shadow.png'
   } }).on('loaded', function(e) {
-                          map.fitBounds(e.target.getBounds());
+                          bounds = getbounds (e.target.getBounds(), bounds);
+
+                          numtoload--;
+
+                          if (numtoload <= 0)
+                          {
+                               map.fitBounds(bounds);
+                           }
+                          
       }).addTo(map);
 
+}
+
+
+function getbounds (one, two)
+{
+  if (one && two)
+  {
+       return one.extend (two);
+  }
+   
+   return one || two;
 }
 </script>
