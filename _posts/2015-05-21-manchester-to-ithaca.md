@@ -40,7 +40,7 @@ The next three days cycling was tedious and boring. After a 9 mile cycle into th
 {% include image.html img="/public/img/manchester/eriecanal.jpg" title="Erie Canal" %} 
 {% include image.html img="/public/img/manchester/eriecanal.jpg" title="Erie Canal" %} 
 {% include image.html img="/public/img/manchester/eriecanal.jpg" title="Erie Canal" caption="Erie canal trail (OK it's the same photo 3 times)" %} 
-{% include image.html img="/public/img/manchester/David.jpg" title="David" caption="David and me" %} 
+{% include image.html img="/public/img/manchester/david.jpg" title="David" caption="David and me" %} 
 
 Luckily the next day turned out to be one of those really great days. The morning started with a cycle along the beautiful lake Cayuga in perfect cycling weather. As it got to lunch time I set myself a little target - I'd stop at the next place after a turning in a few miles down the road. The sign said it was a creamery - I was going to blow on past but spotted a few bicycles in the car park so thought I'd pop in and say hello and see if they served food as well as ice cream. The bicycles belonged to a local school group who were doing a week's cycling around the area. I had a nice chat to the teachers and a few of the students, ate my lunch and headed off for the final glorious stretch to Ithaca.  
 
