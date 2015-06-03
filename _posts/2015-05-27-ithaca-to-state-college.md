@@ -2,6 +2,9 @@
 layout: post
 title: Ithaca to State College
 ---
+
+{% include map.html gpx="20150522,20150523,20150524,20150525" %}
+
 Ithaca is a pretty college town surrounded by wonderful waterfalls. Sara and Kal had taken me to Cascadilla falls right in downtown the evening before and chastised me for cycling past the (apparently very beautiful) Taughannock falls without stopping that day - I'd even turned off to take a look but the hill was steep and I was lazy... I promised to make up for it the next morning and turned off into Buttermilk Falls on the way out of town. It was stunning. A few miles further on I pulled off the highway into Treman state park to see another set of spectacular falls and to bump into Sara and her school group again!
 
 {% include image.html img="/public/img/ithaca/cascadilla.jpg" title="Cascadilla falls" caption="Cascadilla Falls" %} 
