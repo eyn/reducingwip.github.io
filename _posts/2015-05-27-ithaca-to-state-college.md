@@ -8,7 +8,6 @@ Ithaca is a pretty college town surrounded by wonderful waterfalls. Sara and Kal
 {% include image.html img="/public/img/ithaca/buttermilk.jpg" title="Buttermilk falls" caption="Buttermilk Falls" %}
 {% include image.html img="/public/img/ithaca/treman.jpg" caption="Treman Falls" %}
 
-
 As I pulled out of Treman state park I pulled over to one side of the road to check my GPS and find out how long it was before I had to start paying attention and look for a turning. As I was doing this a car pulled up in front of me and a gentleman jumps out the car - I tensed up a little having read other cyclist's reports of random people getting irate at them having the temerity to ride on a public road. I couldn't have been more wrong! The guy had seen me and loved cycling so much he wanted to stop and find out what I was up to - we chatted about the ride for a few minutes then I asked about the t-shirt he was wearing - (http://aidsrideforlife.org)[Aids ride for life] - it looks like a great organization that has an annual cycle with lengths to suit all comers in the finger lakes region. As we were saying goodbye I find a $20 note being pushed into my hand saying he'd like to buy me dinner. What a nice thing for him to do and what had started with me being slightly fearful turned into an incredibly nice encounter. 
 
 Coming back to those waterfalls again, there is something that waterfalls need for them to be waterfalls, and that is sudden changes in ground level. As I soon discovered, there is plenty of this around Ithaca. It was the first set of proper climbs since I'd crossed Green Mountain National Forest and I began to notice that my legs were much stronger than they had been and I was able to get up the climbs in one go often without resorting to my lowest "granny gear". Previously when I'd come across a climb I'd often get a feeling of dread - oh god can I make it up this one? will this be the one that beats me and I have to push the bike up? I began to find this feeling happened a lot less when I saw a climb coming up and I began to, dare I say it, enjoy them. Well not always, there's a fine line between enjoyment and hatred when you're on a bike... 
@@ -19,7 +18,7 @@ Coming back to those waterfalls again, there is something that waterfalls need f
 
 The next day took me from Elmira into Pennsylvania and over to the top of Pennsylvania's Grand Canyon - the ride was fairly hilly but uneventful with a very pleasant lunch by some lakes before spending the night in an incredibly busy campsite in Morris, PA with lots of families using the long memorial weekend to get away. The size of some of the RVs suggest that some people bought more with them than they left at home but as they say "bigger is better".
 
-{% include image.html img="/public/img/ithaca/rv.jpg" caption="Bigger is better!" %}
+{% include image.html img="/public/img/ithaca/rv.jpg" caption="Bigger is better" %}
 
 The next morning I set off for the 40 mile descent of Pennsylvania's Grand Canyon - it was a very pleasant traffic free ride down an old railbed which criss crosses the river over red rusting hulks of railway bridges. I was excited to see this mini-grand canyon and despite hints that some canyon walls might appear at some point I came to the conclusion that the person who came up with the moniker has never been to the grand canyon as I couldn't see any real resemblance. 
 
@@ -29,7 +28,7 @@ The next morning I set off for the 40 mile descent of Pennsylvania's Grand Canyo
 
 The trail spat me out into the town of Jersey Shore and into the distinctive topography of northern Pennsylvania - I had a look around the town and it seemed pretty run down to me so either I'm missing something or the TV series is about somewhere else? While the town was disappointing the topography is spectacular: long wide valleys running northeast/southwest are shouldered by 1800ft heavily wooded ridges. The valleys, which are full of farms and arable fields, seem flat when traversing them but can undulate quite sharply when riding down their length. The spectacular wooded ridges have huge cleaves in them every few miles where you normally find a tangle of roads and railways vying for space in the natural cut into the next valley
 
-{% include image.html img="/public/img/ithaca/northernpa.jpg" title"Northern Pennsylvania" %}
+{% include image.html img="/public/img/ithaca/northernpa.jpg" title="Northern Pennsylvania" %}
 {% include image.html img="/public/img/ithaca/northernpa_2.jpg" caption="Northern Pennsylvania" %}
 
 
