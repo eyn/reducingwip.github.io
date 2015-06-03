@@ -1,5 +1,13 @@
 <div class="image-wrapper">
+  {% if include.title %}
 <img src="{{ include.img }}" alt="{{ include.title }}" />
+  {% else %}
+    {% if include.caption %}
+<img src="{{ include.img }}" alt="{{ include.caption }}" />
+    {% else %}
+<img src="{{ include.img }}" />
+    {% endif %}
+  {% endif %}
   {% if include.caption %}
 <p class ="image-caption"> {{ include.caption }}</p>
   {% endif %}
