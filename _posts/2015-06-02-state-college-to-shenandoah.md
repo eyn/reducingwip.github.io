@@ -21,7 +21,7 @@ My plan was to ride the drive over 2 days - the first day was to be the hardest 
 
 The first day was an incredibly grueling 8 hours of cycling to get up to Big Meadows - there were a few points where I wondered if I’d have enough time to make it up to the campsite before it got dark or if I’d still be on the road as the sun set. The scenery was glorious as you can see from the video below and although the gradient isn’t that steep it was steep enough to make it hard work and there was plenty of it to go up!
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/7h0bwnZiZBw" frameborder="0" allowfullscreen="allowfullscreen ">&nbsp;</iframe>
+<iframe width="420" height="325" src="http://www.youtube.com/embed/7h0bwnZiZBw" frameborder="0" allowfullscreen="allowfullscreen ">&nbsp;</iframe>
 
 The second day was an easier day cycling and the south end of the park proved to be much quieter than the north end so I had more time to take in the wonderful sites that being that high above the valley afforded me. There was a huge thunderstorm that crept up on me in the afternoon. One second it was bright sunshine and the next it was like I had stepped into a monsoon shower. It got so heavy I couldn't cycle and I ended up sheltering under a tree trying to keep out of the rain (I needed of bothered as I was already soaked through) but there’s something incredibly special about being outside with a huge thunderstorm going on around you. 
 
