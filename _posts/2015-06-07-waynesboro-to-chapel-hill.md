@@ -23,8 +23,8 @@ I was with sadness that I left the Blue Ridge Parkway and headed towards Lynchbu
 
 A hunt around some bike shops the next morning turned up a new pair of pedals that would probably get me to the next big city where I could buy some higher quality pedals. 
 
-The next two days down to Chapel Hill were very wet. It was pretty constant mizzle, drizzle or all out rain. The countryside was pleasant but pretty unremarkable - maybe if it hadn’t been so wet I’d have noticed more but in the end the only photo I took was the shot up sign coming into North Carolina. I was very happy when I pulled into my hotel in Chapel Hill where I’d spend the next 3 days - a luxurious break! 
+The next three days down to Chapel Hill were very wet. It was pretty constant mizzle, drizzle or all out rain. The countryside was pleasant but pretty unremarkable - maybe if it hadn’t been so wet I’d have noticed more but in the end the only photo I took was the shot up sign coming into North Carolina. I was very happy when I pulled into my hotel in Chapel Hill where I’d spend the next 3 days - a luxurious break! 
 
-{% include image.html img="/public/img/shenandoah/nc.jpg" caption="Welcome to North Carolina!" %}
+{% include image.html img="/public/img/chapelhill/nc.jpg" caption="Welcome to North Carolina!" %}
 
 The plan is now to head back towards Asheville and the Blue Ridge Parkway then cycle the last 100 miles or so to Cherokee before heading over the Big Smokies into Tennessee and start heading west properly!
