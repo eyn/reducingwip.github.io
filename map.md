@@ -4,14 +4,9 @@ title: Map
 ---
 
 <style>
-html, body
-{
-    height: 100%;
-}
-
 #map
 {
-  height: 80%;
+  height: 800px;
 }
 </style>
 
