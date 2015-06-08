@@ -3,6 +3,8 @@ layout: post
 title: State College to Shenandoah 
 ---
 
+{% include map.html gpx="20150526,20150527,20150528,20150530,20150531" %}
+
 After a good nights sleep I said goodbye to Stephanie, Ed, Ira and Aiden (as well as getting to say hello to a few Redgate folks when I had to interrupt Stephanie’s video call to find out how to open the garage door)!! The cycle track to the next town was a godsend keeping me off a very busy road. A few wrong turns led me to a different route than the one I had planned to take - and it turned out to be a great route. I climbed up past a ski area and came across a couple of guys sat at a desk in the middle of the woods. Chatting to them they were there to do timings for a mountain bike race that was going on in the local area. The tarmac soon degenerated into stone dust and I spent the next hour climbing up to the top of the mountain coming across little groups of fellow cyclists who were all happy to stop for a quick chat or cheer me on towards the top. 
 
 The climb turned out to be one of those rare climbs where the effort put in seemed less than the pay off on the descent. So often when you have spent what seems like an age climbing up the side of a hill or mountain you end up feeling short changed by the descent - it will often be over in a matter of minutes and you’re immediately thrown into the next climb with now slightly cold and stiff legs. This time it seemed different - I spent the next 40 minutes in a glorious and secluded descent through (yet another) beautiful forest arriving for lunch at Whipple Dam state park where I met a K1 group and their teachers and got chatting to them for a while. 
