@@ -1,7 +1,9 @@
-<div class="map" id="map"></div>
+<div class="map" id="map" onload="initmap()"></div>
 
 <script lang="text/javascript">
- 
+
+function initmap() 
+{
 var map = L.map('map').setView([39.8282, -98.5795], 3);
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
@@ -31,7 +33,7 @@ marker_options: {
       }).addTo(map);
 
 }
-
+}
 
 function getbounds (one, two)
 {
