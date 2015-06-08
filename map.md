@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: Map
 ---
 
 <style>
 #map
 {
-  height: 800px;
+  height: 640px;
 }
 </style>
 
