@@ -3,6 +3,8 @@ layout: post
 title: Waynesboro to Chapel Hill
 ---
 
+{% include map.html gpx="20150601,20150602,20150603,20150604,20150605" %}
+
 After two hard days cycling my legs were pretty knackered so rather than return to the Blue Ridge Parkway immediately I decided to spend a day cycling down the flatter valley to the west of the parkway and then spent the night in Lexington, VA. 
 
 When I woke the next morning I had an email informing me that my house sale back in the UK had fallen through at the last minute (the day we were due to exchange)! Communications when you are up in the mountains can be a bit difficult so I decided to change my plan and head directly towards the Raleigh/Durham/Chapel Hill area, where I was due to meet my friend Kat who is going to cycle with me for a few weeks. Taking a direct route rather than following the Blue Ridge Parkway before striking out for them would save me a few days cycling and I’d have good access to internet etc so I could get everything back in the UK sorted. It would also give me a few days off to rest and recuperate after a pretty hard 4 weeks cycling. 
