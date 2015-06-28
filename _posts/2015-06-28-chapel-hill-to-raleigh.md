@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapel Hill to Raleigh
+title: Chapel Hill to Nashville
 ---
 This leg was broken into three distinct sections: A 5 day cycle through the rolling hills of rural North Carolina to get to Asheville and rejoin Appalachian mountains; 4 days of riding along the Blue Ridge Parkway to Cherokee followed by a final crossing of the Appalachians into Tennessee; and a 5 day ride from the mountain pass to Nashville. I'd been joined by Katrina, a friend from the UK for this leg.
 
@@ -12,7 +12,7 @@ The first four days were filled with pleasant but pretty unexciting cycling thro
 By the fifth day we had clearly crossed the line from undulating countryside and into mountainous terrain and we had our first proper climb through some woods past a very pretty gieser and looping back forwards across a railway line that was making impressive and lengthy loops around the valley to be able to gain the altitude it needed while keeping the grade low enough for a train to be able to tackle it. That evening was spent in the pretty little town of Black Mountain with a few well deserved beers at the local brewery! The next day we peddled into the laid back hip town of Asheville and visited the spectacular Biltmore Estate.
 
 {% include image.html img="/public/img/nashville/returnofmountains.jpg" caption="First sight of the mountains" %}
-{% include image.html img="/public/img/nashville/gieser.jpg" caption="The Gieser" %}
+{% include image.html img="/public/img/nashville/geiser.jpg" caption="The Gieser" %}
 {% include image.html img="/public/img/nashville/asheville.jpg" caption="Cocktails in Asheville" %}
 
 Pulling up to the gatehouse we had the frustrating experience if being told we couldn't cycle on the estate, it took a good 10 minutes of explaining we didn't have a car we could put the bikes in and drive up for the guy to get we didn't have a car we could put the bikes in. Eventually we found a supervisor who agreed we could ride the bikes up to the house and we were let loose on to the estate. After a 4 mile meander through the estate we came across the house. Built by the Vanderbilt family as their country retreat Biltmore House is a grand chateaux style building nestled in the largest private estate in the US. The house is absolutely stunning inside (it's asymmetric and a bit ugly from the outside) and the surrounding woodland and gardens are immaculate. What is especially impressive is that when the estate was purchased the forest had been depleted by ship building and over the past 100 years it has been regrown and restored to its current condition.
