@@ -2,6 +2,9 @@
 layout: post
 title: Chapel Hill to Nashville
 ---
+
+{% include map.html gpx="20150609,20150610,20150611,20150612,20150613,20150614,20150615,20150616,20150617,20150618,20150618_1,20150619,20150620,20150621,20150622" %}
+
 This leg was broken into three distinct sections: A 5 day cycle through the rolling hills of rural North Carolina to get to Asheville and rejoin Appalachian mountains; 4 days of riding along the Blue Ridge Parkway to Cherokee followed by a final crossing of the Appalachians into Tennessee; and a 5 day ride from the mountain pass to Nashville. I'd been joined by Katrina, a friend from the UK for this leg.
 
 The first four days were filled with pleasant but pretty unexciting cycling through the rolling countryside of North Carolina back towards the Appalachian mountains. There were a few highlights of these first few days: the first night out of Chapel Hill we camped in a little wood on the edge of a park and spent the evening watching a spectacular display of fireflies zipping around the woods; coming across the incredibly pretty Lake James nestled in the foothills above Morganton, NC; and frankly anything cold! The temperatures had climbed significantly since I'd cycled down the week before and we were facing highs of 38C in the shade (my GPS recorded a high of 45C in the sun).  You ended up covered in sweat before you'd even got on the bike and trying to do anything above the minimum amount of effort is nigh on impossible!
