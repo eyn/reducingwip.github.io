@@ -3,7 +3,7 @@ layout: post
 title: Chapel Hill to Nashville
 ---
 
-{% include map.html gpx="20150609,20150610,20150611,20150612,20150613,20150614,20150615,20150616,20150617,20150618,20150618_1,20150619,20150620,20150621,20150622" %}
+{% include map.html gpx="20150609,20150610,20150611,20150612,20150613,20150614,20150615,20150616,20150617,20150618,20150619,20150620,20150621,20150622" %}
 
 This leg was broken into three distinct sections: A 5 day cycle through the rolling hills of rural North Carolina to get to Asheville and rejoin Appalachian mountains; 4 days of riding along the Blue Ridge Parkway to Cherokee followed by a final crossing of the Appalachians into Tennessee; and a 5 day ride from the mountain pass to Nashville. I'd been joined by Katrina, a friend from the UK for this leg.
 
