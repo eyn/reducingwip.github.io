@@ -2,6 +2,9 @@
 layout: post
 title: Nashville to Farmington
 ---
+
+{% include map.html gpx="20150626,20150627,20150630,20150701,20150702,20150703" %}
+
 Nashville is a great city. It has been a few years since I'd last been there and since then loads of cool places have opened up. I had a couple of days off - namely to rest - but ended up doing more partying than resting. T
 
 I took the opportunity of being in a big city to make a few changes to my kit. I'd been carrying the excellent Terra Nova Voyager XL but felt I could make do with something smaller and lighter so ended up buying a Big Agnes Fly Creek UL2 - it's only a little smaller than the Terra Nova but it weighs less than the poles of the Terra Nova. It's not as robust but should hopefully do the job. I also switched my 4 season bag for a 2 season bag and finally bought some more pedals (back to Shimano Saints MX80s) as the studs had fallen out of my last pair making them slippery in the rain. I also got the wheels trued up - there were no significant buckles but there were a few minor wobbles in the wheels where I'd hit rocks/potholes/other things.
