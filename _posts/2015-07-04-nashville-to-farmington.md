@@ -23,7 +23,7 @@ I'd signed up a week in advance but couldn't get a spot on the Sunday tour so ha
 
 {% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/83/get-ready-to-do-some.jpg" caption="One of the canyon walks" %}
 
-{% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/7f/the-birth-canal-obvious.jpg" caption="The \"Birthing canal\"" %}
+{% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/7f/the-birth-canal-obvious.jpg" caption="The birth canal" %}
 <small>These photos of Wild Cave Tour are courtesy of TripAdvisor <a href="http://www.tripadvisor.com/LocationPhotoDirectLink-g143043-d522141-i49976684-Wild_Cave_Tour-Mammoth_Cave_National_Park_Kentucky.html">(full album)</a> </small>
 
 After the rest days in Nashville and the two days off in Mammoth Cave I was feeling the lack of progress. It was a little over 1400 miles from Cave City to the next place I'd done any research on - Pueblo in Colorado - an intimidating distance with nothing in between me and it. I wondered if I was up to doing it in 14 days with a target of approximately 100 miles/day. Leaving Mammoth Cave I felt pretty strong and set out for Madisonville nearly exactly 100 miles west. The day was hard and long - after 9 hrs 32 mins I watched as my GPS ticked over to 100 miles for the first time. I don't remember much of the day other than it being long.
