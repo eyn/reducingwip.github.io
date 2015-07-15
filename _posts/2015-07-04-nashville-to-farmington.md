@@ -18,11 +18,13 @@ I'd been to Mammoth Cave a few years ago with Simon G where he had talked me int
 
 I'd signed up a week in advance but couldn't get a spot on the Sunday tour so had another rest day and went on the tour on the Monday. It was as good as I'd hoped. There are 14 people and 2 rangers. You go and get into caving gear and are driven out into the woods to enter the cave through a door that looks so out of place in the middle of the woods you feel it should take you into wonderland. You then spend 6 hours squeezing yourself through impossibly tight holes, bouldering, climbing, seeing some beautiful caves and formations and scaring the more mainstream tours by appearing through random holes they are looking at. I didn't take my camera but there are some photos that others have taken on other tours I've borrowed.
 
-<a href="http://www.tripadvisor.com/LocationPhotoDirectLink-g143043-d522141-i49976684-Wild_Cave_Tour-Mammoth_Cave_National_Park_Kentucky.html#29437321"><img alt="" src="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/89/one-more-i-could-barely.jpg"/></a>
 
-<a href="http://www.tripadvisor.com/LocationPhotoDirectLink-g143043-d522141-i49976684-Wild_Cave_Tour-Mammoth_Cave_National_Park_Kentucky.html#29437315"><img alt="" src="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/83/get-ready-to-do-some.jpg"/></a>
+{% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/89/one-more-i-could-barely.jpg" caption="Emerging from a hole" %}
 
-<a href="http://www.tripadvisor.com/LocationPhotoDirectLink-g143043-d522141-i29437313-Wild_Cave_Tour-Mammoth_Cave_National_Park_Kentucky.html#29437311"><img alt="" src="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/7f/the-birth-canal-obvious.jpg"/></a><small>These photos of Wild Cave Tour are courtesy of TripAdvisor</small>
+{% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/83/get-ready-to-do-some.jpg" caption="One of the canyon walks" %}
+
+{% include image.html img="http://media-cdn.tripadvisor.com/media/photo-s/01/c1/2d/7f/the-birth-canal-obvious.jpg" caption="The \"Birthing canal\"" %}
+<small>These photos of Wild Cave Tour are courtesy of TripAdvisor <a href="http://www.tripadvisor.com/LocationPhotoDirectLink-g143043-d522141-i49976684-Wild_Cave_Tour-Mammoth_Cave_National_Park_Kentucky.html">(full album)</a> </small>
 
 After the rest days in Nashville and the two days off in Mammoth Cave I was feeling the lack of progress. It was a little over 1400 miles from Cave City to the next place I'd done any research on - Pueblo in Colorado - an intimidating distance with nothing in between me and it. I wondered if I was up to doing it in 14 days with a target of approximately 100 miles/day. Leaving Mammoth Cave I felt pretty strong and set out for Madisonville nearly exactly 100 miles west. The day was hard and long - after 9 hrs 32 mins I watched as my GPS ticked over to 100 miles for the first time. I don't remember much of the day other than it being long.
 
