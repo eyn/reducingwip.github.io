@@ -3,7 +3,7 @@
 <script lang="text/javascript">
 
 var map = L.map('map').setView([39.8282, -98.5795], 3);
-L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+L.tileLayer('http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png').addTo(map);
 
 var gpxfiles = "{{ include.gpx }}".split (',');
 var numtoload = gpxfiles.length;
