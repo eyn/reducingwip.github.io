@@ -2,7 +2,7 @@
 layout: post
 title: Farmington, MO to Pueblo, CO
 ---
-{% include map.html gpx="20150704,20150705,20150706,20150707,20150708,20150709,20150711,20150712,20150713,20150714,20150715,20150716,20150717,20150718,20150719,20150720" %}
+{% include map.html gpx="20150704,20150705,20150706,20150707,20150708,20150709,20150711,20150712,20150713,20150714,20150715,20150716,20150717,20150718,20150719" %}
 
 I woke the morning after the party feeling awful. I'd only had a few hours sleep not to mention far too much to drink. Corey had invited me to another party that evening and I was sorely tempted to write the day off, nurse my hangover and go meet Corey that evening. I also knew if I did that it was likely that I would wake up the next morning with a hangover which was just as bad so I decided that I'd push on and bare the pain. 
 
