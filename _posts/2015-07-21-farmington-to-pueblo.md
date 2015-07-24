@@ -23,10 +23,10 @@ That night I camped down by the Current river in Eminence, MO. It was beautiful 
 
 The highlight of of the next day was stopping at Alley Springs - a spring which generates something in the order of 80 million gallons of water every day. It also has a really pretty and interesting mill which rather than having a mill wheel it has a submerged turbine to drive the grinders. After I passed through Summersville the hills became slightly less steep. I got to the small town of Houston a bit later and was ravenous - I had the option of gas station food or McDonald's - neither particularly enticing I was about to break out the camp stove when I spotted a hospital - they must feed people who visit patients there. I went in and and found the canteen and had a very nice if slightly surreal meal. 
 
-{% include image.html img="/public/img/pueblo/als1.jpg" title="Alley Springs" %}
-{% include image.html img="/public/img/pueblo/als2.jpg" title="Alley Springs" %}
-{% include image.html img="/public/img/pueblo/als3.jpg" title="Alley Springs" %}
-{% include image.html img="/public/img/pueblo/als4.jpg" caption="Alley Springs" %}
+{% include image.html img="/public/img/pueblo/as1.jpg" title="Alley Springs" %}
+{% include image.html img="/public/img/pueblo/as2.jpg" title="Alley Springs" %}
+{% include image.html img="/public/img/pueblo/as3.jpg" title="Alley Springs" %}
+{% include image.html img="/public/img/pueblo/as4.jpg" caption="Alley Springs" %}
 {% include image.html img="/public/img/pueblo/hospital.jpg" caption="My dinner spot" %}
 
 The next day I had another culinary adventure. I arrived in Hartville at lunchtime and every cafe I found was closed. Once again I could survive off gas station food but when I spotted what looked like a very lively seniors centre doing lunch for local OAPs. I stuck my head in and was welcomed in with open arms. A $6 donation got me a lunch of chicken, rice, corn bread, salad and a swiss roll for dessert. I had a lovely conversation with a lady called Winona and then got chatting to another local couple who were members of a christian motorcycle gang, they gave me a silver coin which has a number on it - if I'm ever in trouble apparently I can call this number and they will send out riders to help me. After lunch we all held hands and they blessed my bike for me.
@@ -43,7 +43,7 @@ As the land began to level out I began to get the urge to get out of Missouri an
 The next morning I headed back to cooky's for breakfast (and another slice of pie!!). I got chatting to some local farmers who told me the road was shut they suggested a few alternative routes which worked out well. Most of the day was spent cycling through more corn fields before crossing into Kansas (I was so happy to have made the border!!) and continuing through yet more cornfields all the way to Chanute. 
 
 {% include image.html img="/public/img/pueblo/kansas.jpg" caption="Entering Kansas" %}
-{% include image.html img="/public/img/pueblo/tortoise1.jpg" title="Tortoise Rescue" %}
+{% include image.html img="/public/img/pueblo/tortoise.jpg" title="Tortoise Rescue" %}
 {% include image.html img="/public/img/pueblo/tortoise2.jpg" caption="I was tired to seeing squished tortoises so started giving them helping hands across the road" %}
 {% include image.html img="/public/img/pueblo/oculus.jpg" caption="I came across Oculus Rift's top secret animal research lab" %}
 
@@ -68,8 +68,8 @@ Another few hours brought me into the town of Eureka - my stopping point for the
 
 {% include image.html img="/public/img/pueblo/eureka.jpg" caption="Downtown Eureka" %}
 {% include image.html img="/public/img/pueblo/disteve.jpg" caption="Di and Steve" %}
-{% include image.html img="/public/img/pueblo/robyn1.jpg" caption="Robyn" %}
-{% include image.html img="/public/img/pueblo/robyn2.jpg" caption="Robyn's house" %}
+{% include image.html img="/public/img/pueblo/robyn2.jpg" caption="Robyn" %}
+{% include image.html img="/public/img/pueblo/robyn1.jpg" caption="Robyn's house" %}
 
 The next morning I set out early to avoid the worst of the heat again. The directions for the day were pretty simple - head due west for 19 miles, turn north for 16 miles, turn west for 40 miles. There was a real wind coming out of the south-southwest that day so the first section of the day I was battered by cross winds and a slight headwind, the next 16 miles I flew then I got to the small town of Cassoday and prepared to make my second turn of the day - as I did this the wind moved round so I had a headwind for the next very boring 40 miles. 
 
