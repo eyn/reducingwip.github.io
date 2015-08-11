@@ -2,6 +2,9 @@
 layout: post
 title: Pueblo, CO to Saratoga, WY
 ---
+
+{% include map.html gpx="20150720,20150721,20150722,20150724,20150725,20150726" %}
+
 To be riding out of Pueblo was magical. It had been somewhere that had been so far ahead of me for so long to have got there felt like a huge achievement. The town itself was a bit of a disappointment but I wasn't staying there long as I'd decided to put off my rest day until I reached Breckenridge. I stopped in to the local bike shop and bought and fitted some new tires to replace my worn ones and tightened a few spokes and trued the wheels up after the pummeling they had taken on the roads since Nashville. It had gone lunchtime before I got out of town but that was OK as it was a relatively short 45 miles to Canon City which sat at the foot of the rockies. 
 
 The landscape between Pueblo and Canon city was mesmerising. The sandstone of high desert and miniature sun flowers framed by majestic mountains then you come round a corner and there's violent rip in the landscape with a small river gurgling along at the bottom of a deep gorge where you can clearly see each strata of stone. 
