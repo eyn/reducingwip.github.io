@@ -51,11 +51,11 @@ On my day off I planned to take a ski-lift up the mountain for a gentle walk wit
 {% include image.html img="/public/img/saratoga/hike1.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike2.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike3.jpg" caption="" title="" %}
-{% include image.html img="/public/img/saratoga/hike4.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike5.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike6.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike7.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike8.jpg" caption="" title="" %}
+{% include image.html img="/public/img/saratoga/hike4.jpg" caption="" title="" %}
 {% include image.html img="/public/img/saratoga/hike9.jpg" caption="" title="" %}
 
 The next morning I popped into a bike shop to get a few spares that I hadn't managed to get in Pueblo before heading heading out of town. The first 15 miles were a gentle downhill along a bike path. It's very childish but it was a lot of fun to streak past the day riders on their expensive road bikes while being on a fully loaded tourer. As I came down into Silverthorne I was able to repay one of the many acts of kindness I'd experienced by fixing an older lady's pedals for her. 
